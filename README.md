@@ -3,7 +3,6 @@
 
 𝗜'𝗺 [Alex1900](https://github.com/zzl-Alexander)！
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/imzjwo)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3236622675@qq.com)](mailto:admin@imzjw.cn)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zzl-Alexander)](https://github.com/zzl-Alexander)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zzl-Alexander)

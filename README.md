@@ -7,8 +7,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zzl-Alexander)](https://github.com/zzl-Alexander)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zzl-Alexander)
 
-<img align="right"  height="200px" src="https://github-readme-stats.vercel.app/api?username=zzl-Alexander&show_icons=true&hide_border=true&theme=radical" />
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzl-alexander&layout=compact" />
+<img align="right"  height="170px" src="https://github-readme-stats.vercel.app/api?username=zzl-Alexander&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzl-alexander&layout=compact" />
 
 ## 🧐 About
 
